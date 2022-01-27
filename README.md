@@ -16,3 +16,7 @@ PNG versions of each logo are available at the following resolutions (square):
 ### Main
 
 ![The Main Logo](main/main-logo-240.png)
+
+### Emcee
+
+![The Emcee Logo](emcee/emcee-240.png)
